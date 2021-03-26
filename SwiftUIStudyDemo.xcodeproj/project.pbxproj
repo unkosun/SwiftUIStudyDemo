@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A07E99A2260C892E009803F0 /* SwitfUIStudyDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwitfUIStudyDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A07E99A2260C892E009803F0 /* SwiftUIStudyDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIStudyDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A07E99A5260C892E009803F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A07E99A7260C892E009803F0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A07E99A9260C892E009803F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		A07E9999260C892E009803F0 = {
 			isa = PBXGroup;
 			children = (
-				A07E99A4260C892E009803F0 /* SwitfUIStudyDemo */,
+				A07E99A4260C892E009803F0 /* SwiftUIStudyDemo */,
 				A07E99A3260C892E009803F0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		A07E99A3260C892E009803F0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A07E99A2260C892E009803F0 /* SwitfUIStudyDemo.app */,
+				A07E99A2260C892E009803F0 /* SwiftUIStudyDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A07E99A4260C892E009803F0 /* SwitfUIStudyDemo */ = {
+		A07E99A4260C892E009803F0 /* SwiftUIStudyDemo */ = {
 			isa = PBXGroup;
 			children = (
 				A07E99BA260C898A009803F0 /* Calculator */,
@@ -69,7 +69,7 @@
 				A07E99B3260C8932009803F0 /* Info.plist */,
 				A07E99AD260C8932009803F0 /* Preview Content */,
 			);
-			path = SwitfUIStudyDemo;
+			path = SwiftUIStudyDemo;
 			sourceTree = "<group>";
 		};
 		A07E99AD260C8932009803F0 /* Preview Content */ = {
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A07E99A1260C892E009803F0 /* SwitfUIStudyDemo */ = {
+		A07E99A1260C892E009803F0 /* SwiftUIStudyDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A07E99B6260C8932009803F0 /* Build configuration list for PBXNativeTarget "SwitfUIStudyDemo" */;
+			buildConfigurationList = A07E99B6260C8932009803F0 /* Build configuration list for PBXNativeTarget "SwiftUIStudyDemo" */;
 			buildPhases = (
 				A07E999E260C892E009803F0 /* Sources */,
 				A07E999F260C892E009803F0 /* Frameworks */,
@@ -120,9 +120,9 @@
 			);
 			dependencies = (
 			);
-			name = SwitfUIStudyDemo;
+			name = SwiftUIStudyDemo;
 			productName = SwitfUIStudyDemo;
-			productReference = A07E99A2260C892E009803F0 /* SwitfUIStudyDemo.app */;
+			productReference = A07E99A2260C892E009803F0 /* SwiftUIStudyDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -139,7 +139,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A07E999D260C892E009803F0 /* Build configuration list for PBXProject "SwitfUIStudyDemo" */;
+			buildConfigurationList = A07E999D260C892E009803F0 /* Build configuration list for PBXProject "SwiftUIStudyDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -152,7 +152,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A07E99A1260C892E009803F0 /* SwitfUIStudyDemo */,
+				A07E99A1260C892E009803F0 /* SwiftUIStudyDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -319,15 +319,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwitfUIStudyDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIStudyDemo/Preview Content\"";
 				DEVELOPMENT_TEAM = 42NVPCWC7J;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = SwitfUIStudyDemo/Info.plist;
+				INFOPLIST_FILE = SwiftUIStudyDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unko.SwitfUIStudyDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unko.SwiftUIStudyDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -340,15 +340,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwitfUIStudyDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIStudyDemo/Preview Content\"";
 				DEVELOPMENT_TEAM = 42NVPCWC7J;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = SwitfUIStudyDemo/Info.plist;
+				INFOPLIST_FILE = SwiftUIStudyDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unko.SwitfUIStudyDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unko.SwiftUIStudyDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -358,7 +358,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A07E999D260C892E009803F0 /* Build configuration list for PBXProject "SwitfUIStudyDemo" */ = {
+		A07E999D260C892E009803F0 /* Build configuration list for PBXProject "SwiftUIStudyDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A07E99B4260C8932009803F0 /* Debug */,
@@ -367,7 +367,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A07E99B6260C8932009803F0 /* Build configuration list for PBXNativeTarget "SwitfUIStudyDemo" */ = {
+		A07E99B6260C8932009803F0 /* Build configuration list for PBXNativeTarget "SwiftUIStudyDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A07E99B7260C8932009803F0 /* Debug */,
